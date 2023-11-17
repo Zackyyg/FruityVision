@@ -10,6 +10,7 @@ This project uses a Convolutional Neural Network built with TensorFlow and Keras
 pip install tensorflow keras numpy pillow
 ```
 <h3>Dataset Preparation</h3>
+
 1. Download dataset from [Kaggle](https://www.kaggle.com/datasets/sriramr/apples-bananas-oranges/data)
 
 2. extract dataset in project folder
