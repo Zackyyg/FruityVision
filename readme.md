@@ -16,7 +16,7 @@ pip install tensorflow keras numpy pillow
 
 3. remove duplicate dataset
 ```bash
-    rm -r PyVision/original_data_set/original_data_set
+rm -r PyVision/original_data_set/original_data_set
 ```
 
 <h3>Training the model</h3>
