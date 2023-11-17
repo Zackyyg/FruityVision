@@ -31,5 +31,3 @@ python train.py
 ```bash
 python predict.py images/banana.jpg
 ```
-
-python predict.py images/orange.jpg
